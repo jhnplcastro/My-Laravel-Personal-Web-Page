@@ -12,7 +12,7 @@
 
 /* Colors */
 :root{
-  --first-color: #FB726A;
+  --first-color: #67b668;
   --second-color: #0E2431;
 }
 
@@ -120,7 +120,7 @@ img{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color: #c8e1cc;
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
 
@@ -230,7 +230,7 @@ img{
 }
 .about__subtitle{
   margin-bottom: var(--mb-2);
-  margin-left: 730px;
+  margin-left: 670px;
 }
 .about__text{
   justify-content: center;
@@ -246,7 +246,7 @@ img{
 }
 .dream__subtitle{
   margin-bottom: var(--mb-2);
-  margin-left: 770px;
+  margin-left: 710px;
   margin-right: 100px;
   text-align: justify;
 }
@@ -269,7 +269,7 @@ img{
 }
 .year__subtitle{
   margin-bottom: var(--mb-2);
-  margin-left: 750px;
+  margin-left: 690px;
   margin-right: 100px;
   text-align: justify;
 }
@@ -416,7 +416,7 @@ img{
 
                     <div>
                         <h2 class="about__subtitle">I am John Paul</h2>
-                        <p class="about__text">I am John Paul Rosario Castro, a 21 years old 3rd year student of Pamantasan ng Lungsod ng Pasig taking up Bachelor of Science in Computer Science. To tell everyone honestly, I'm an emotionally-driven person, I tend to let my emotion commands my actions and reactions which sometimes resulting to be misunderstood. but despite of that, I'm adjusting to make myself more capable of befriending. I despise insensitive person who can't control their mouth and actions, I hate people that don't respect one's restrictions and ruining someone's peace.</p>
+                        <p class="about__text">Hello, I am John Paul Castro, 22 years old, 3rd student of Pamantasan ng Lungsod ng Pasig, taking up a Bachelor of Science in Computer Science. To tell everyone honestly, I am an emotionally-driven person. I tend to let my emotions drive my actions and reactions, which sometimes results in being misunderstood. But despite that, I'm adjusting to make myself more capable of befriending. I despise insensitive people who can't control their mouth and actions, I hate people that don't respect one another's restrictions and ruin someone's peace.</p>
                     </div>
                 </div>
             </section>
@@ -455,7 +455,7 @@ Laravel strives to provide an amazing developer experience, while providing powe
 
                         <div>
                             <h2 class="year__subtitle">Successful</h2>
-                            <p class="year__text">Frankly speaking, I haven't thought of it since I was ask right now. I still have no vision on what future is ahead of me. But I want to be a successful person, I wanted to be a person that makes my family especially my parents proud. I wanted to be a person that can give all the things that my family desires to have. I want them to be happy, and I want peace for myself. </p>
+                            <p class="year__text">Six years from now, I bet, I'd be successful and happy in the field that I chose, which is being an educator. Before deciding to pursue this field, I had no vision of what my future would be. But seeing  a lot of people with lack of knowledge not because they don't want to, but because efficient and effective educators are hard to find. I want these people to realize how important education is. I want to engrave the wisdom that education has to offer. A makes them believe that they are deserving of a good education and a bright future.</p>
                           </div>
                       </section>
         </main>
